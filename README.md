@@ -1,4 +1,4 @@
-# O’Reilly offline EPUB prototype for Linux
+# O’Reilly offline EPUB/PDF prototype for Linux
 
 This is an **experimental browser exporter**, not an official O’Reilly downloader.
 It packages full chapters that your signed-in browser can read into a local EPUB,
